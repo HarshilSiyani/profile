@@ -1,0 +1,45 @@
+h1{
+  color: #ececec;
+}
+body{
+  background-color: #222831;
+  font-family: lato;
+  color: #c1a57b;
+  border: 20px #c1a57b;
+  margin: auto;
+  max-width: 900px;
+  text-align: center;
+  padding:40px;
+}
+a{
+  text-decoration: none;
+  padding-right: 30px;
+}
+a:hover{
+  background-color: #c1a57b;
+}
+a:visited{
+  color: #ececec;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%
+}
+ol li{
+  list-style: none
+}
+
+.container {
+  background-color: #30475e;
+  padding: 20px;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+.button {
+  background-color: #222831;
+  color: #c1a57b;
+  padding: 15px 32px;
+  font-size: 20px
+}
+
